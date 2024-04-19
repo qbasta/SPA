@@ -1,0 +1,11 @@
+procedure Circle {
+1. t = 1;
+2. a = t + 10;
+3. d = t + a + 2;
+4. b = t + a;
+5. b = t + a;
+6. while c {
+7. d = d + t;
+8. c = d + 1; }
+9. a = d + t;
+10. c = c + 1; }
